@@ -21,7 +21,7 @@ git clone https://github.com/Comfy-Themes/Comfy
 Accept the license agreement and proceed through the instructions. Choose "Install BetterDiscord" when prompted to choose an action
 
 3. Once you reach this screen:
-![BetterDiscord installation](https://comfy-themes.github.io/Discord/assets/discord_version.png)
+![BetterDiscord installation](/assets/discord_version.png)
 Choose the stable version of Discord.
 Discord should automatically restart to complete the installation process.
 
