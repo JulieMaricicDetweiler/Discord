@@ -27,7 +27,7 @@ Discord should automatically restart to complete the installation process.
 
 #### Once you have BetterDiscord installed:
 4. Navigate to your settings in Discord and under the "BetterDiscord" menu, select "Themes" (see below)
-![BetterDiscord Themes Menu](/assets/themes_setting.png)
+![BetterDiscord Themes Menu](/assets/theme_setting.png)
 
 5. From here, click on "Open theme Folder" and drag the CSS file downloaded in step 1 into the folder that is opened by this action.
 ![Theme Folder](/assets/themes_folder.png)
